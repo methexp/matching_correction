@@ -1,2 +1,2 @@
-# matching_correction
-Raw data and correction to matching bias article (Stahl et al., 2008)
+# Correction to Stahl et al. (2008) "Matching bias in the selection task is not eliminated by explicit negations"
+The published article reports some errors that were due to use of an incorrect data file version. They do not affect the discussed results nor the conclusions drawn in the article. A correction was submitted that corrects these errors. This project provides raw data the correction paper as well as analysis code for the correction notice.
